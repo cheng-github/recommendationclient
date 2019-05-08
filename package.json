@@ -1,5 +1,5 @@
 {
-  "name": "login-demo",
+  "name": "test",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -9,15 +9,22 @@
   },
   "dependencies": {
     "core-js": "^2.6.5",
-    "vue": "^2.6.10"
+    "element-ui": "^2.8.2",
+    "vue": "^2.6.10",
+    "vue-router": "^3.0.6",
+    "vuex": "^3.1.0"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^3.6.0",
     "@vue/cli-plugin-eslint": "^3.6.0",
     "@vue/cli-service": "^3.6.0",
+    "axios": "^0.18.0",
     "babel-eslint": "^10.0.1",
+    "babel-plugin-component": "^1.1.1",
+    "babel-preset-es2015": "^6.24.1",
     "eslint": "^5.16.0",
     "eslint-plugin-vue": "^5.0.0",
+    "md5": "^2.2.1",
     "vue-template-compiler": "^2.5.21"
   },
   "eslintConfig": {
